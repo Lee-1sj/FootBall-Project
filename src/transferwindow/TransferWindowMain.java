@@ -18,7 +18,6 @@ public class TransferWindowMain {
 	private static final String MARKET_FILE = "market.dba";
 	private static ArrayList<User> userList = new ArrayList<>();
 	private static ArrayList<Team> teamList = new ArrayList<>();
-	private static ArrayList<Player> userPlayerList = new ArrayList<>();
 	private static  ArrayList <Player> faPlayerList = new ArrayList<>();
 
 	public static Scanner sc = new Scanner(System.in);
